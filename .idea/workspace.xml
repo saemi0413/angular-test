@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29627e15-3cde-439d-93fc-5cf2045a0864" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eCuj7L0DWuz1omhfy2v4f1rWyP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mouse-pos-logger" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/angular-test/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/angular-test/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29627e15-3cde-439d-93fc-5cf2045a0864" name="Default Changelist" comment="" />
+      <created>1593838027995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593838027995</updated>
+      <workItem from="1593838031451" duration="17135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="258" key="#com.intellij.ide.util.MemberChooser" timestamp="1593847135992">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="805" y="258" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1593847135992" />
+    <state x="165" y="96" width="1655" height="884" key="DiffContextDialog" timestamp="1593854353793">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="165" y="96" width="1655" height="884" key="DiffContextDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1593854353793" />
+    <state x="630" y="220" key="FileChooserDialogImpl" timestamp="1593882652192">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="630" y="220" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1593882652192" />
+    <state x="701" y="440" key="Github.CreateGistDialog" timestamp="1593854094358">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="701" y="440" key="Github.CreateGistDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1593854094358" />
+    <state x="770" y="414" key="Github.ShareDialog" timestamp="1593854433466">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="770" y="414" key="Github.ShareDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1593854433466" />
+    <state x="516" y="174" key="SettingsEditor" timestamp="1593854413827">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="516" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1593854413827" />
+    <state x="165" y="96" width="1655" height="884" key="ShowDiffWithBranchDialog" timestamp="1593854353794">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="165" y="96" width="1655" height="884" key="ShowDiffWithBranchDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1593854353794" />
+    <state x="492" y="212" key="Vcs.Push.Dialog.v2" timestamp="1593854059423">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="492" y="212" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1593854059423" />
+    <state x="721" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593854298307">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="721" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.24.1855.1056@65.24.1855.1056" timestamp="1593854298307" />
+    <state x="632" y="236" width="719" height="678" key="search.everywhere.popup" timestamp="1593847416504">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="632" y="236" width="719" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1593847416504" />
+    <state x="788" y="284" key="svn.repositoryBrowser" timestamp="1593857307967">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="788" y="284" key="svn.repositoryBrowser/65.24.1855.1056@65.24.1855.1056" timestamp="1593857307967" />
+  </component>
+</project>
