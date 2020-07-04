@@ -1,0 +1,7 @@
+<div id="lang-select">
+  <div class="lang-box" *ngFor="let lang of langMetadata">
+    <lagel *ngIf="langCode === lang.code">선택됨</lagel>
+    <button type="button" (click)="setLangCode(lang.code)"
+            [disabled]="langCode === lang.code">{{lang | langSelectorBtn}}</button>
+  </div>
+</div>
